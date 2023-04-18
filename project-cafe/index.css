@@ -1,0 +1,8 @@
+h1,h2,p{
+text-align:center;
+}
+div{
+margin-left:auto;  /*this and the below margin-left are  to center  the div horizontally */
+margin-right:auto;
+background-color:burywood;
+width:80%;
