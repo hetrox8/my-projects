@@ -28,8 +28,7 @@ body {
   margin:0 auto;
 }
 
-.gallery img {
-  width: 100%;
-  max-width: 350px;
-  height: 300px;
+.gallery::after{
+  content:"";
+  width:350px
 }
